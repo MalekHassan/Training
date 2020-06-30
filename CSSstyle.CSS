@@ -1,0 +1,19 @@
+.instagram-icon{
+    border-radius: 50px;
+    float: right;
+}
+.facebook-icon{
+    border-radius: 50px;
+    float: right;
+}
+
+.companylogo{
+    width: 100px;
+    height: 100px;
+}
+.navigation{
+    position: fixed;
+    top: 0;
+    background-color: gray;
+    width: 99.5%;
+}
